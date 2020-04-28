@@ -1,5 +1,4 @@
-﻿using ObjectHashGenerator;
-using System;
+﻿using System;
 using TruCrypt;
 
 namespace CryptTest
@@ -13,7 +12,6 @@ namespace CryptTest
                 Price = "100",
             };
 
-            Encrypt.MD5Encryption(model);
 
 
 

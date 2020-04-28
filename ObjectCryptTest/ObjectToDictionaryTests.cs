@@ -1,7 +1,7 @@
 using NUnit.Framework;
 using ObjectCryptTest.Model;
-using ObjectHashGenerator;
 using ObjectEncryptTest.TestCases;
+using ObjectHashGenerator.Extension;
 using System.Collections.Generic;
 using System.Linq;
 
